@@ -1,0 +1,11 @@
+QWidget#FrameWindows_container{
+    background-color:#bebebe;
+}
+
+QPushButton#FrameWindows_exit{
+    background-color:transparent;
+}
+
+QPushButton#FrameWindows_exit:hover{
+    background-color:rgba(0,0,0,0.3)
+}       

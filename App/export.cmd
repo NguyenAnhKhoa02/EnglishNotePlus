@@ -1,0 +1,1 @@
+pyinstaller --icon D:\Project\EnglistNotePlus\EnglistNotePlus\ico\icon.ico --noconsole --disable-windowed-traceback D:\Project\EnglistNotePlus\EnglistNotePlus\main_client.py

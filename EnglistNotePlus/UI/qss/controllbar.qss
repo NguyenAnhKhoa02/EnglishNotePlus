@@ -1,0 +1,14 @@
+QPushButton#buttonControllbar{
+    background-color: transparent ;
+}
+
+QPushButton#buttonControllbar:hover{
+    background-color : rgba(0,0,0,0.3)
+}
+
+QLabel#version{
+    color: white;
+    font-family : "Roboto Slab";
+    font-size : 10px;
+    margin-right : 20px;
+}

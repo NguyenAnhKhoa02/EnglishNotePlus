@@ -1,0 +1,10 @@
+QWidget#container {
+  background-color: #dcdcdc;
+}
+
+QComboBox QAbstractItemView {
+  border: 1px solid grey;
+  background: white;
+  selection-background-color: blue;
+  font-family:"Arial"
+}

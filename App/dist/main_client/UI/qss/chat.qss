@@ -1,0 +1,32 @@
+QWidget#topic{
+    background-color:#808080;
+}
+
+QLabel#topic{
+    color : white;
+    font-family: "Raleway";
+}
+
+QWidget#showingChat{
+    background-color:#c0c0c0 ;
+}
+
+QLabel#showingSend{
+    background-color:#d3d3d3;
+    font-family: "Roboto";
+    font-size: 13px
+}
+
+QLabel#showingReceive{
+    background-color : #e5e4e2;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+QLineEdit#inputChatting{
+    font-family: "feast";
+}
+
+QPushButton#receive{
+    font-family: "Arial";
+}

@@ -1,0 +1,16 @@
+QFrame {
+    background-color: #696969 ;
+}
+
+QPushButton#optionButton {
+    background-color : transparent;
+    color : white;
+    font-family : "UTM Nokia";
+    font-size : 9px;
+    padding: 10%;
+    width: 60%;
+}
+
+QWidget#showingContent {
+    background-color : #dcdcdc 
+}

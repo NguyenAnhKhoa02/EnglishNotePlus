@@ -1,0 +1,81 @@
+QWidget#container {
+    background-color: #dcdcdc;
+}
+
+QTabWidget#tabManage {
+    font-family : "Arial";
+}
+
+QPushButton#addNew {
+
+    width : 30%;
+    height : 20%;
+    padding:  5%;
+}
+
+QPushButton#edit{
+    width : 40%;
+    height : 20%;
+    padding : 3%;
+}
+
+QWidget#objectWord{
+    background-color:#dcdcdc
+}
+
+QWidget#containerWord{
+    background-color: #f5f5f5; 
+}
+
+QLabel#title{
+    background-color : #f5f5f5;
+    font-family: "Arial";
+    font-size: 25px;
+}
+
+QLabel#showing{
+    background-color: #f5f5f5;
+    font-family: "feast";
+    font-size: 12px;
+}
+
+QWidget#containerShowingObject{
+    background-color: #dcdcdc
+}
+
+QLabel#wordObject{
+    background-color:transparent;
+    font-family: "Arial";
+}
+
+QLineEdit{
+    font-family : "Arial";
+    background-color: transparent;
+    border:none;
+    border-bottom: 1px solid black;
+}
+
+QScrollArea{
+    background-color: #f5f5f5
+}
+
+QComboBox QAbstractItemView {
+  border: 1px solid grey;
+  background: white;
+  selection-background-color: blue;
+  font-family:"Arial"
+}
+
+QTextEdit{
+    background-color:#bfc1c2;
+    font-family:"Arial"
+}
+
+QWidget#containerGrammar{
+    background-color: #f5f5f5; 
+}
+
+QLabel#grammarObject{
+    background-color:transparent;
+    font-family: "Arial";
+}
